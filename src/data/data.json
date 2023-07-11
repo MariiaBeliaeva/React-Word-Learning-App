@@ -1,0 +1,107 @@
+[
+  {
+    "id": "Date.now()",
+    "english": "dog",
+    "transcription": "[dɒg]",
+    "russian": "собака",
+    "tags": "животные"
+  },
+  {
+    "id": "13054",
+    "english": "cat",
+    "transcription": "[kæt]",
+    "russian": "кошка",
+    "tags": "животные"
+  },
+  {
+    "id": "13067",
+    "english": "corn",
+    "transcription": "[kɔːrn]",
+    "russian": "кукуруза",
+    "tags": "овощи"
+  },
+  {
+    "id": "13069",
+    "english": "butterfly ",
+    "transcription": "[ˈbʌtərflaɪ]",
+    "russian": "бабочка",
+    "tags": "насекомое"
+  },
+  {
+    "id": "13133",
+    "english": "hedgehog",
+    "transcription": "[ˈhedʒ.hɒɡ]",
+    "russian": "ежик",
+    "tags": "животные"
+  },
+  {
+    "id": "13144",
+    "english": "kid",
+    "transcription": "[kid]",
+    "russian": "ребенок",
+    "tags": "семья"
+  },
+  {
+    "id": "13146",
+    "english": "mother",
+    "transcription": "[ˈmʌðər] ",
+    "russian": "мать",
+    "tags": "семья"
+  },
+  {
+    "id": "13147",
+    "english": "father",
+    "transcription": "[ˈfɑːðər] ",
+    "russian": "отец",
+    "tags": "семья"
+  },
+  {
+    "id": "13148",
+    "english": "family",
+    "transcription": "[ˈfæməli]",
+    "russian": "семья",
+    "tags": "семья"
+  },
+  {
+    "id": "13158",
+    "english": "accelerator\t",
+    "transcription": "[əkˈseləreɪtə]\t",
+    "russian": "акселератор",
+    "tags": "автомобиль"
+  },
+  {
+    "id": "13163",
+    "english": "brake\t",
+    "transcription": "[breɪk]\t",
+    "russian": "тормоз",
+    "tags": "автомобиль"
+  },
+  {
+    "id": "13164",
+    "english": "brake fluid\t\t",
+    "transcription": "[breɪk ˈfluːɪd]",
+    "russian": "тормозная жидкость",
+    "tags": "автомобиль"
+  },
+  {
+    "id": "13165",
+    "english": "brake light\t",
+    "transcription": "[breɪk laɪt]\t",
+    "russian": "стоп-сигнал",
+    "tags": "автомобиль"
+  },
+  {
+    "id": "13166",
+    "english": "bulbs\t",
+    "transcription": "[bʌlbz]\t",
+    "russian": "лампы",
+    "tags": "автомобиль"
+  },
+  {
+    "id": "13168",
+    "english": "clutch\t",
+    "transcription": "[klʌtʃ]\t",
+    "russian": "сцепление",
+    "tags": "автомобиль"
+  }
+]
